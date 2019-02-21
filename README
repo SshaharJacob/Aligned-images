@@ -8,6 +8,7 @@ an image, checking what is the dominant angle, and return a new image that
 rotate in the dominant angle.
 
 For using, put parameters in this way: images/imageToLoad.jpg nameToSave.jpg MaxSizeOfDiagonal
-
+You need to run the file aligned.py.
+Enjoy.
 
 
