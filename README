@@ -8,7 +8,10 @@ an image, checking what is the dominant angle, and return a new image that
 rotate in the dominant angle.
 
 For using, put parameters in this way: images/imageToLoad.jpg nameToSave.jpg MaxSizeOfDiagonal
+For example: images/test45.jpg output.jpg 330
 You need to run the file aligned.py.
 Enjoy.
+
+The file aligned_helper.py was provided by the course staff and its main target is to convert an image into pixels.
 
 
